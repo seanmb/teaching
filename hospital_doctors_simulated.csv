@@ -1,0 +1,145 @@
+Doctor_ID,Health_Authority,Hospital,Grade
+0,Authority 0,Authority 0 Hospital 0,Consultant
+1,Authority 0,Authority 0 Hospital 0,Consultant
+2,Authority 0,Authority 0 Hospital 0,Consultant
+3,Authority 0,Authority 0 Hospital 0,Consultant
+4,Authority 0,Authority 0 Hospital 0,Consultant
+5,Authority 0,Authority 0 Hospital 0,Consultant
+6,Authority 0,Authority 0 Hospital 0,Registrar
+7,Authority 0,Authority 0 Hospital 0,Registrar
+8,Authority 0,Authority 0 Hospital 0,Registrar
+9,Authority 0,Authority 0 Hospital 0,Registrar
+10,Authority 0,Authority 0 Hospital 0,Registrar
+11,Authority 0,Authority 0 Hospital 0,Registrar
+12,Authority 0,Authority 0 Hospital 0,Junior doctor
+13,Authority 0,Authority 0 Hospital 0,Junior doctor
+14,Authority 0,Authority 0 Hospital 0,Junior doctor
+15,Authority 0,Authority 0 Hospital 0,Junior doctor
+16,Authority 0,Authority 0 Hospital 0,Junior doctor
+17,Authority 0,Authority 0 Hospital 0,Junior doctor
+18,Authority 0,Authority 0 Hospital 1,Consultant
+19,Authority 0,Authority 0 Hospital 1,Consultant
+20,Authority 0,Authority 0 Hospital 1,Consultant
+21,Authority 0,Authority 0 Hospital 1,Consultant
+22,Authority 0,Authority 0 Hospital 1,Consultant
+23,Authority 0,Authority 0 Hospital 1,Consultant
+24,Authority 0,Authority 0 Hospital 1,Registrar
+25,Authority 0,Authority 0 Hospital 1,Registrar
+26,Authority 0,Authority 0 Hospital 1,Registrar
+27,Authority 0,Authority 0 Hospital 1,Registrar
+28,Authority 0,Authority 0 Hospital 1,Registrar
+29,Authority 0,Authority 0 Hospital 1,Registrar
+30,Authority 0,Authority 0 Hospital 1,Junior doctor
+31,Authority 0,Authority 0 Hospital 1,Junior doctor
+32,Authority 0,Authority 0 Hospital 1,Junior doctor
+33,Authority 0,Authority 0 Hospital 1,Junior doctor
+34,Authority 0,Authority 0 Hospital 1,Junior doctor
+35,Authority 0,Authority 0 Hospital 1,Junior doctor
+36,Authority 1,Authority 1 Hospital 0,Consultant
+37,Authority 1,Authority 1 Hospital 0,Consultant
+38,Authority 1,Authority 1 Hospital 0,Consultant
+39,Authority 1,Authority 1 Hospital 0,Consultant
+40,Authority 1,Authority 1 Hospital 0,Consultant
+41,Authority 1,Authority 1 Hospital 0,Consultant
+42,Authority 1,Authority 1 Hospital 0,Registrar
+43,Authority 1,Authority 1 Hospital 0,Registrar
+44,Authority 1,Authority 1 Hospital 0,Registrar
+45,Authority 1,Authority 1 Hospital 0,Registrar
+46,Authority 1,Authority 1 Hospital 0,Registrar
+47,Authority 1,Authority 1 Hospital 0,Registrar
+48,Authority 1,Authority 1 Hospital 0,Junior doctor
+49,Authority 1,Authority 1 Hospital 0,Junior doctor
+50,Authority 1,Authority 1 Hospital 0,Junior doctor
+51,Authority 1,Authority 1 Hospital 0,Junior doctor
+52,Authority 1,Authority 1 Hospital 0,Junior doctor
+53,Authority 1,Authority 1 Hospital 0,Junior doctor
+54,Authority 1,Authority 1 Hospital 1,Consultant
+55,Authority 1,Authority 1 Hospital 1,Consultant
+56,Authority 1,Authority 1 Hospital 1,Consultant
+57,Authority 1,Authority 1 Hospital 1,Consultant
+58,Authority 1,Authority 1 Hospital 1,Consultant
+59,Authority 1,Authority 1 Hospital 1,Consultant
+60,Authority 1,Authority 1 Hospital 1,Registrar
+61,Authority 1,Authority 1 Hospital 1,Registrar
+62,Authority 1,Authority 1 Hospital 1,Registrar
+63,Authority 1,Authority 1 Hospital 1,Registrar
+64,Authority 1,Authority 1 Hospital 1,Registrar
+65,Authority 1,Authority 1 Hospital 1,Registrar
+66,Authority 1,Authority 1 Hospital 1,Junior doctor
+67,Authority 1,Authority 1 Hospital 1,Junior doctor
+68,Authority 1,Authority 1 Hospital 1,Junior doctor
+69,Authority 1,Authority 1 Hospital 1,Junior doctor
+70,Authority 1,Authority 1 Hospital 1,Junior doctor
+71,Authority 1,Authority 1 Hospital 1,Junior doctor
+72,Authority 2,Authority 2 Hospital 0,Consultant
+73,Authority 2,Authority 2 Hospital 0,Consultant
+74,Authority 2,Authority 2 Hospital 0,Consultant
+75,Authority 2,Authority 2 Hospital 0,Consultant
+76,Authority 2,Authority 2 Hospital 0,Consultant
+77,Authority 2,Authority 2 Hospital 0,Consultant
+78,Authority 2,Authority 2 Hospital 0,Registrar
+79,Authority 2,Authority 2 Hospital 0,Registrar
+80,Authority 2,Authority 2 Hospital 0,Registrar
+81,Authority 2,Authority 2 Hospital 0,Registrar
+82,Authority 2,Authority 2 Hospital 0,Registrar
+83,Authority 2,Authority 2 Hospital 0,Registrar
+84,Authority 2,Authority 2 Hospital 0,Junior doctor
+85,Authority 2,Authority 2 Hospital 0,Junior doctor
+86,Authority 2,Authority 2 Hospital 0,Junior doctor
+87,Authority 2,Authority 2 Hospital 0,Junior doctor
+88,Authority 2,Authority 2 Hospital 0,Junior doctor
+89,Authority 2,Authority 2 Hospital 0,Junior doctor
+90,Authority 2,Authority 2 Hospital 1,Consultant
+91,Authority 2,Authority 2 Hospital 1,Consultant
+92,Authority 2,Authority 2 Hospital 1,Consultant
+93,Authority 2,Authority 2 Hospital 1,Consultant
+94,Authority 2,Authority 2 Hospital 1,Consultant
+95,Authority 2,Authority 2 Hospital 1,Consultant
+96,Authority 2,Authority 2 Hospital 1,Registrar
+97,Authority 2,Authority 2 Hospital 1,Registrar
+98,Authority 2,Authority 2 Hospital 1,Registrar
+99,Authority 2,Authority 2 Hospital 1,Registrar
+100,Authority 2,Authority 2 Hospital 1,Registrar
+101,Authority 2,Authority 2 Hospital 1,Registrar
+102,Authority 2,Authority 2 Hospital 1,Junior doctor
+103,Authority 2,Authority 2 Hospital 1,Junior doctor
+104,Authority 2,Authority 2 Hospital 1,Junior doctor
+105,Authority 2,Authority 2 Hospital 1,Junior doctor
+106,Authority 2,Authority 2 Hospital 1,Junior doctor
+107,Authority 2,Authority 2 Hospital 1,Junior doctor
+108,Authority 3,Authority 3 Hospital 0,Consultant
+109,Authority 3,Authority 3 Hospital 0,Consultant
+110,Authority 3,Authority 3 Hospital 0,Consultant
+111,Authority 3,Authority 3 Hospital 0,Consultant
+112,Authority 3,Authority 3 Hospital 0,Consultant
+113,Authority 3,Authority 3 Hospital 0,Consultant
+114,Authority 3,Authority 3 Hospital 0,Registrar
+115,Authority 3,Authority 3 Hospital 0,Registrar
+116,Authority 3,Authority 3 Hospital 0,Registrar
+117,Authority 3,Authority 3 Hospital 0,Registrar
+118,Authority 3,Authority 3 Hospital 0,Registrar
+119,Authority 3,Authority 3 Hospital 0,Registrar
+120,Authority 3,Authority 3 Hospital 0,Junior doctor
+121,Authority 3,Authority 3 Hospital 0,Junior doctor
+122,Authority 3,Authority 3 Hospital 0,Junior doctor
+123,Authority 3,Authority 3 Hospital 0,Junior doctor
+124,Authority 3,Authority 3 Hospital 0,Junior doctor
+125,Authority 3,Authority 3 Hospital 0,Junior doctor
+126,Authority 3,Authority 3 Hospital 1,Consultant
+127,Authority 3,Authority 3 Hospital 1,Consultant
+128,Authority 3,Authority 3 Hospital 1,Consultant
+129,Authority 3,Authority 3 Hospital 1,Consultant
+130,Authority 3,Authority 3 Hospital 1,Consultant
+131,Authority 3,Authority 3 Hospital 1,Consultant
+132,Authority 3,Authority 3 Hospital 1,Registrar
+133,Authority 3,Authority 3 Hospital 1,Registrar
+134,Authority 3,Authority 3 Hospital 1,Registrar
+135,Authority 3,Authority 3 Hospital 1,Registrar
+136,Authority 3,Authority 3 Hospital 1,Registrar
+137,Authority 3,Authority 3 Hospital 1,Registrar
+138,Authority 3,Authority 3 Hospital 1,Junior doctor
+139,Authority 3,Authority 3 Hospital 1,Junior doctor
+140,Authority 3,Authority 3 Hospital 1,Junior doctor
+141,Authority 3,Authority 3 Hospital 1,Junior doctor
+142,Authority 3,Authority 3 Hospital 1,Junior doctor
+143,Authority 3,Authority 3 Hospital 1,Junior doctor
